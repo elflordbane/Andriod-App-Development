@@ -29,7 +29,7 @@ queried for.  The username had to be passed as a variable between all the activi
 When I expanded the app to store the users notification preference their username was also stored with it.
 
 I think I really show my skills throughout the app, but there are a few things that may stand out.  The 
-app has been made not to crash.  Their were point in the app where the user could leave the app without them
+app has been made not to crash.  There were points in the app where the user could leave the app without them
 having entered key data for the app to run and when they next entered the app it would crash because it did
 not have the data it needed.  Why a user would do this is not clear but now the program checks for this 
 strange occurrence and will shunt the user back to data entry  if it has not been done.  Also, the back button
