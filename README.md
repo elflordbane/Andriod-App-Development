@@ -17,7 +17,7 @@ several tables to one database and this worked well.  My strategy was to keep bu
 itself and it grew into completion, after much testing.  In the future I feel a similar starting point
 should be found and design methodology should follow.
 
-     To test that my code was functional I would run the app often as soon as I built a new feature into
+To test that my code was functional I would run the app often as soon as I built a new feature into
 it to make sure it would work as planned.  I often would run the debugging feature to see exactly what 
 line of code was making the app fail.  The testing process is very important because it reveals where your
 app is having problems so you can fix it, also it lets you know when your work is done when the app runs
