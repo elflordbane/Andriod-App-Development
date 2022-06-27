@@ -1,6 +1,6 @@
 # Andriod-App-Development
 
-     The requirements of this app where to have a log-in tied to a database where a user could either
+The requirements of this app where to have a log-in tied to a database where a user could either
 create a new a account for a first time user or log into their existing account.  The app would also
 ask for permission to send SMS notifications via text messaging.  Each user can accept or decline if
 they want the messaging but someone has to allow the messaging to happen in the second prompt.  The
@@ -11,7 +11,7 @@ at all times giving them prompts and messages to cue them along and let them kno
 them and if things were added successfully or not.  My designs were successful the app runs well and is 
 user friendly.
 
-      When I started coding I started with building the database and then the log in then I moved to the
+When I started coding I started with building the database and then the log in then I moved to the
 activities, originally I thought to build several databases but this gave me an error so I just added 
 several tables to one database and this worked well.  My strategy was to keep building the app up on 
 itself and it grew into completion, after much testing.  In the future I feel a similar starting point
@@ -23,12 +23,12 @@ line of code was making the app fail.  The testing process is very important bec
 app is having problems so you can fix it, also it lets you know when your work is done when the app runs
 error free.
 
-     One of the main areas I had to innovate was to make the app work for multiple users, it involved storing
+One of the main areas I had to innovate was to make the app work for multiple users, it involved storing
 the username with the data that was being inserted, and also having the username sent whenever the data was 
 queried for.  The username had to be passed as a variable between all the activities so it was always available.
 When I expanded the app to store the users notification preference their username was also stored with it.
 
-     I think I really show my skills throughout the app, but there are a few things that may stand out.  The 
+I think I really show my skills throughout the app, but there are a few things that may stand out.  The 
 app has been made not to crash.  Their were point in the app where the user could leave the app without them
 having entered key data for the app to run and when they next entered the app it would crash because it did
 not have the data it needed.  Why a user would do this is not clear but now the program checks for this 
